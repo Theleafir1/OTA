@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1230764400, // unix time
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3", //md5
-      "romtype": "UNOFFICIAL",
-      "size": 314572800, // size in bytes
-      "url": "https://example.com/ota-package.zip",
-      "version": "2.1"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1760490438,
+            "filename": "axion-2.1-NIGHTLY-20251015-COMMUNITY-GMS-lunaa.zip",
+            "id": "e17ad17fe80a0bfc4f8b419c4d3bf71d",
+            "romtype": "COMMUNITY",
+            "size": 2365148020,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/2.1/axion-2.1-NIGHTLY-20251015-COMMUNITY-GMS-lunaa.zip",
+            "version": "2.1"
+        }
+    ]
 }
