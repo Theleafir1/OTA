@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "",
+            "oem": "",
+            "device": "",
+            "filename": "crDroidAndroid-16.0-20251206-lunaa-v12.3.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/lunaa/12.x/crDroidAndroid-16.0-20251206-lunaa-v12.3.zip/download",
+            "timestamp": 1765046138,
+            "md5": "35575bb329fe85ed5529612701b5132c",
+            "sha256": "a830596a2f6728ccc5512f488182782201ab7d7676df3d488f021f82b96100d0",
+            "size": 2078091963,
+            "version": "12.3",
+            "buildtype": "",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
