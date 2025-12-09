@@ -1,17 +1,17 @@
 {
     "response": [
         {
-            "maintainer": "",
+            "maintainer": "theleafir1",
             "oem": "",
             "device": "",
             "filename": "crDroidAndroid-16.0-20251209-lunaa-v12.4.zip",
-            "download": "https://sourceforge.net/projects/crdroid/files/lunaa/12.x/crDroidAndroid-16.0-20251209-lunaa-v12.4.zip/download",
+            "download": "https://github.com/Theleafir1/OTA/releases/download/12.4/crDroidAndroid-16.0-20251209-lunaa-v12.4.zip",
             "timestamp": 1765305530,
             "md5": "c2cba00905c18c6247e356f7fd418f73",
             "sha256": "fdf2fcbb6ea1faac96776ca44689b962f4d412da638a38c1f4c0e3b699c79670",
             "size": 2076089574,
             "version": "12.4",
-            "buildtype": "",
+            "buildtype": "Unofficial",
             "forum": "",
             "gapps": "",
             "firmware": "",
