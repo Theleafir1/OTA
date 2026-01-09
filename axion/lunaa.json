@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1766836231,
-            "filename": "axion-2.3-BETA-20251227-UNOFFICIAL-GMS-lunaa.zip",
-            "id": "c9150634e3082449e15c5d5f851f39a2",
+            "datetime": 1767896145,
+            "filename": "axion-2.3-TELOS-20260108-UNOFFICIAL-GMS-lunaa.zip",
+            "id": "15bb401a50d1afc0d16009fb75262455",
             "romtype": "UNOFFICIAL",
-            "size": 2340827780,
-            "url": "https://sourceforge.net/projects/axionos-lunaa/files/axion-2.3-BETA-20251227-UNOFFICIAL-GMS-lunaa.zip/download",
+            "size": 2485200102,
+            "url": "https://sourceforge.net/projects/axionos-lunaa/files/axion-2.3-TELOS-20260108-UNOFFICIAL-GMS-lunaa.zip/download",
             "version": "2.3"
         }
     ]
