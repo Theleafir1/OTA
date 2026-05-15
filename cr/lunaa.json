@@ -1,16 +1,16 @@
-{
+l{
     "response": [
         {
             "maintainer": "theleafir1",
             "oem": "",
             "device": "",
-            "filename": "crDroidAndroid-16.0-20260415-lunaa-v12.9.zip",
-            "download": "https://github.com/Theleafir1/OTA/releases/download/12.9/crDroidAndroid-16.0-20260415-lunaa-v12.9.zip",
-            "timestamp": 1776280335,
-            "md5": "2165399b8cae2659cf15d3d39ffc6e78",
-            "sha256": "8cdeaa6b309c7fadc8633fc8b50a8b7b57dd0c312693b78e74f2fa82563e46bf",
-            "size": 2107907673,
-            "version": "12.9",
+            "filename": "crDroidAndroid-16.0-20260514-lunaa-v12.10.zip",
+            "download": "https://github.com/Theleafir1/OTA/releases/download/12.10/crDroidAndroid-16.0-20260514-lunaa-v12.10.zip",
+            "timestamp": 1778771141,
+            "md5": "8a3dbeb2a5a74b97edb12b533a50e271",
+            "sha256": "2e0825c567f7218070d8e92fc7e51020f794eaf65ed95b0318b4be55476d3ba0",
+            "size": 2144178787,
+            "version": "12.10",
             "buildtype": "Unofficial",
             "forum": "",
             "gapps": "",
