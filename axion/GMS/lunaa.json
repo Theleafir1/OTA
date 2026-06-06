@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779529090,
-            "filename": "axion-2.6-QUASIS-20260523-UNOFFICIAL-PICO-lunaa.zip",
-            "id": "7369277963a8e5415d8cffb56e67dfbc",
+            "datetime": 1780643090,
+            "filename": "axion-2.7-PROXIMA_BETA-20260605-UNOFFICIAL-PICO-lunaa.zip",
+            "id": "b03c0a701c3e2d26a74090c3714f26a2",
             "romtype": "UNOFFICIAL",
-            "size": 2423443290,
-            "url": "https://sourceforge.net/projects/axionos-lunaa/files/GMS/axion-2.6-QUASIS-20260523-UNOFFICIAL-PICO-lunaa.zip/download",
-            "version": "2.6"
+            "size": 2507156070,
+            "url": "https://sourceforge.net/projects/axionos-lunaa/files/GMS/axion-2.7-PROXIMA_BETA-20260605-UNOFFICIAL-PICO-lunaa.zip/download",
+            "version": "2.7"
         }
     ]
 }
